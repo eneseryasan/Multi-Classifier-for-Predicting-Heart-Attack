@@ -1,6 +1,5 @@
 # Multi-Classifier-for-Predicting-Heart-Attack
 
-## Multi-Classifier for Predicting Heart Attack Risk System
 * Python, Scikit-Learn, Tkinter
 * Employed kNN, Random Forest, and Naive Bayesian classifiers
 * Developed and implemented a machine learning pipeline to ensure efficient data preprocessing
